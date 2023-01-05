@@ -1,0 +1,26 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukultotla/Learning-React.git"
+  },
+  "author": "Mukul Totla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukultotla/Learning-React/issues"
+  },
+  "homepage": "https://github.com/mukultotla/Learning-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
